@@ -1,0 +1,54 @@
+@page
+@model ContactModel
+@{
+    ViewData["Title"] = "Contact";
+}
+
+<div class="contact-header d-flex align-items-center">
+    <div>
+        <h1 class="fw-bold text-warning-index mt-5">Contact</h1>
+        <h4>We are happy to answer all your questions.</h4>
+    </div>
+</div>
+<div class="container mb-5">
+    <div class="row">
+        <form class="row g-3">
+            <div class="col-md-6">
+                <label class="form-label">First Name*</label>
+                <input type="text" class="form-control" placeholder="First Name" />
+            </div>
+            <div class="col-md-6">
+                <label class="form-label">Last Name*</label>
+                <input type="text" class="form-control" placeholder="Last Name" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Phone*</label>
+                <input type="tel" class="form-control" placeholder="Phone" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Email*</label>
+                <input type="email" class="form-control" placeholder="Email" />
+            </div>
+            <div class="mb-3">
+                <label class="form-label">Your message*</label>
+                <textarea class="form-control" rows="4" placeholder="Your message"></textarea>
+            </div>
+            <div class="mb-3">
+                <input type="checkbox" placeholder="I'm not a robot" /> I'm not a robot
+            </div>
+            <button type="submit" class="btn btn-warning px-4 py-2">Submit</button>
+        </form>
+    </div>
+</div>
+@section Styles {
+    <style>
+        .contact-header {
+            background: var(--light-gray);
+            color: #fff;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            margin-top: 56px;
+            height: 34vh;
+        }
+    </style>
+}

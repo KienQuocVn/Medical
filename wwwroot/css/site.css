@@ -1,0 +1,78 @@
+a {
+  text-decoration: none;
+}
+
+:root {
+  --primary-color: #6c7bb6;
+  --warning-color: #ff9000;
+  --dark-gray: #3f4040;
+  --light-gray: #444;
+}
+
+.text-primary-index {
+  color: var(--primary-color) !important;
+}
+
+.btn-warning-index {
+  background: var(--warning-color);
+}
+
+
+.text-warning-index {
+  color: var(--warning-color) !important;
+}
+
+.border-news {
+  border-bottom: 2px solid var(--warning-color);
+}
+
+.navbar-custom {
+  height: 104px;
+}
+
+.navbar-logo {
+  margin-right: 8px;
+  width: 100px;
+}
+
+.rounded-4 {
+  border-radius: 4px;
+}
+
+.cta-section {
+  height: 55vh;
+  background-color: var(--primary-color);
+}
+
+.social-icon {
+  width: 48px;
+  height: 48px;
+}
+
+.contact-section {
+  background: var(--dark-gray);
+  color: #fff;
+  height: 30vh;
+}
+
+.contact-title {
+  font-size: 14px;
+  line-height: 1.2;
+}
+
+.contact-btn {
+  margin-left: 250px;
+}
+
+.copyright-section {
+  background-color: var(--primary-color);
+  height: 7vh;
+}
+
+.bg-dark-gray {
+  background-color: var(--dark-gray);
+}
+
+.overflow-x-hidden {
+  overflow-x: hidden;
+}

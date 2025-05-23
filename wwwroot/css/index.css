@@ -1,0 +1,50 @@
+.hero-section {
+    height: 73vh;
+}
+
+.hero-content {
+    margin-top: 158px;
+    margin-left: 47px;
+}
+
+.discover-btn {
+    width: 200px;
+}
+
+.intro-section {
+    height: 60vh;
+    background-color: var(--primary-color);
+}
+
+.intro-text {
+    margin-top: 35px;
+}
+
+.products-title {
+    font-size: 56px;
+    line-height: 1.5;
+}
+
+.infusion-card {
+    background-image: url('/images/img1.jpg');
+    background-color: var(--primary-color);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+}
+
+.anaesthesia-card {
+    background-image: url('/images/img2.jpg');
+    background-color: var(--primary-color);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+}
+
+.neuromuscular-card {
+    background-image: url('/images/img3.jpg');
+    background-color: var(--primary-color);
+    background-blend-mode: overlay;
+    background-size: cover;
+    background-position: center;
+}

@@ -1,0 +1,3329 @@
+{
+  "Version": 1,
+  "Hash": "w80WJsM8CwRdZ+ZukrxIU02uSj1gdwCp0YKJz1zszV8=",
+  "Source": "Medical",
+  "BasePath": "_content/Medical",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Medical\\wwwroot",
+      "Source": "Medical",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\77neimg9es-vi5w8g7hrd.gz",
+      "SourceId": "Medical",
+      "SourceType": "Computed",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "Medical#[.{fingerprint=vi5w8g7hrd}]?.styles.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Medical.styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uunboucyvh",
+      "Integrity": "eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Medical.styles.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gb9csubydf-ihgm43zdt1.gz",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/news#[.{fingerprint=ihgm43zdt1}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\Work\\Medical\\wwwroot\\css\\news.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "jivyy4sh1k",
+      "Integrity": "C8bzKratW2ZLiZLqT6TQeELxhBvrjFCIk1vSByxODow=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\wwwroot\\css\\news.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gu8yaobo86-vi5w8g7hrd.gz",
+      "SourceId": "Medical",
+      "SourceType": "Computed",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "Medical#[.{fingerprint=vi5w8g7hrd}]!.bundle.scp.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Medical.bundle.scp.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "uunboucyvh",
+      "Integrity": "eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Medical.bundle.scp.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\lzq6wvsscw-e2qwb9vt8e.gz",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/about#[.{fingerprint=e2qwb9vt8e}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\Work\\Medical\\wwwroot\\css\\about.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "fszrrjc6n3",
+      "Integrity": "EasgbV05sqWsOFtHJt+I7R7z6qj4zJjml+eEddr06dQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\wwwroot\\css\\about.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\pb1h331eja-iguucd2r5e.gz",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/site#[.{fingerprint=iguucd2r5e}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\Work\\Medical\\wwwroot\\css\\site.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wlv6dw1c71",
+      "Integrity": "fF30VB6HpP/EAenpTJMbSbXaQy7gpArLidxsFVJoYXM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\s1h6v60eoc-61n19gt1b8.gz",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "favicon#[.{fingerprint=61n19gt1b8}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\Work\\Medical\\wwwroot\\favicon.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "nezsohjtde",
+      "Integrity": "wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\zf0bu5ircm-8og77ne5m4.gz",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/index#[.{fingerprint=8og77ne5m4}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "H:\\Work\\Medical\\wwwroot\\css\\index.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "infsmx8skj",
+      "Integrity": "wkcx0vlvTBqkSAvQbhagD32by8e6KtqPwFEaNInTvIg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Medical.styles.css",
+      "SourceId": "Medical",
+      "SourceType": "Computed",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "Medical#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "vi5w8g7hrd",
+      "Integrity": "CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Medical.styles.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Medical.bundle.scp.css",
+      "SourceId": "Medical",
+      "SourceType": "Computed",
+      "ContentRoot": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "Medical#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "vi5w8g7hrd",
+      "Integrity": "CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Medical.bundle.scp.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\css\\about.css",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/about#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e2qwb9vt8e",
+      "Integrity": "9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\about.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\css\\index.css",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8og77ne5m4",
+      "Integrity": "KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\css\\news.css",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/news#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ihgm43zdt1",
+      "Integrity": "CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\news.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\css\\site.css",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "css/site#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "iguucd2r5e",
+      "Integrity": "srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\favicon.ico",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "61n19gt1b8",
+      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\banner.jpg",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/banner#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jf65o1qjom",
+      "Integrity": "MTTE8PlUD+HwVHL7EQhu6i5Clwk20Cwclw0jbDWnQuY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\banner.jpg"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\img1.jpg",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/img1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qfdp7yt0uo",
+      "Integrity": "Rg8SYI/5zy0USGPztTpM3f4TbDI+0OBlkLHkE4bSetY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img1.jpg"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\img2.jpg",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/img2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5057wtdhuo",
+      "Integrity": "FdlxZ7yd515vGsXf8+lRlHJ0wgYgTsqB02cyysMpT6Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img2.jpg"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\img3.jpg",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/img3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "kchkveig8k",
+      "Integrity": "1CuJloiQ2woW3LVij9DNUR/O0zTzSXV3A6bzID8bdbQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img3.jpg"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\img4.jpg",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/img4#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5k63bhtweq",
+      "Integrity": "Cx2sP65PPBqf64uyOc585k1bVfJPB3XnreDuF4facVA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img4.jpg"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\img5.jpg",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/img5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sexik5n6q3",
+      "Integrity": "pDF5k2RrNws28FiMZMkt7berj4FuSGDvKaVRndJLNKY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img5.jpg"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\img6.png",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/img6#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "h5rnn3rx8y",
+      "Integrity": "y8OkWMwTMyWCtsajMVQGu6g7wFpm8LehKtFPnMdJWFw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\img6.png"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\logo_footer.png",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/logo_footer#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bmmll37i1t",
+      "Integrity": "w3aYuDBWar8L7ELDaain7ZYgw5k2VHXmC2x9Bg2GLJg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo_footer.png"
+    },
+    {
+      "Identity": "H:\\Work\\Medical\\wwwroot\\images\\logo.png",
+      "SourceId": "Medical",
+      "SourceType": "Discovered",
+      "ContentRoot": "H:\\Work\\Medical\\wwwroot\\",
+      "BasePath": "_content/Medical",
+      "RelativePath": "images/logo#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f9jx449yah",
+      "Integrity": "wwOzEHqxRihroLoqBnmN5Yp+kmRRjJhlVh4/EC5/UuM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\logo.png"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/about.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\lzq6wvsscw-e2qwb9vt8e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EasgbV05sqWsOFtHJt+I7R7z6qj4zJjml+eEddr06dQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow="
+        }
+      ]
+    },
+    {
+      "Route": "css/about.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\about.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow="
+        }
+      ]
+    },
+    {
+      "Route": "css/about.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\lzq6wvsscw-e2qwb9vt8e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EasgbV05sqWsOFtHJt+I7R7z6qj4zJjml+eEddr06dQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-EasgbV05sqWsOFtHJt+I7R7z6qj4zJjml+eEddr06dQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/about.e2qwb9vt8e.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\lzq6wvsscw-e2qwb9vt8e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.004608294931"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EasgbV05sqWsOFtHJt+I7R7z6qj4zJjml+eEddr06dQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e2qwb9vt8e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/about.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow="
+        }
+      ]
+    },
+    {
+      "Route": "css/about.e2qwb9vt8e.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\about.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "391"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e2qwb9vt8e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/about.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9ipxigx3q+E9thxkozFcwk14VeuKSWHfST9u3tje2Ow="
+        }
+      ]
+    },
+    {
+      "Route": "css/about.e2qwb9vt8e.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\lzq6wvsscw-e2qwb9vt8e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "216"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"EasgbV05sqWsOFtHJt+I7R7z6qj4zJjml+eEddr06dQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e2qwb9vt8e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/about.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-EasgbV05sqWsOFtHJt+I7R7z6qj4zJjml+eEddr06dQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.8og77ne5m4.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\zf0bu5ircm-8og77ne5m4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003257328990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkcx0vlvTBqkSAvQbhagD32by8e6KtqPwFEaNInTvIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8og77ne5m4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.8og77ne5m4.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8og77ne5m4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.8og77ne5m4.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\zf0bu5ircm-8og77ne5m4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkcx0vlvTBqkSAvQbhagD32by8e6KtqPwFEaNInTvIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8og77ne5m4"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkcx0vlvTBqkSAvQbhagD32by8e6KtqPwFEaNInTvIg="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\zf0bu5ircm-8og77ne5m4.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003257328990"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkcx0vlvTBqkSAvQbhagD32by8e6KtqPwFEaNInTvIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1003"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KJNd9EjxL5kks7kTXCjAD9xf4TAwNk61aGiGJSKSWSg="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\zf0bu5ircm-8og77ne5m4.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "306"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wkcx0vlvTBqkSAvQbhagD32by8e6KtqPwFEaNInTvIg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:29:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wkcx0vlvTBqkSAvQbhagD32by8e6KtqPwFEaNInTvIg="
+        }
+      ]
+    },
+    {
+      "Route": "css/news.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gb9csubydf-ihgm43zdt1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007299270073"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C8bzKratW2ZLiZLqT6TQeELxhBvrjFCIk1vSByxODow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/news.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\news.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/news.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gb9csubydf-ihgm43zdt1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C8bzKratW2ZLiZLqT6TQeELxhBvrjFCIk1vSByxODow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C8bzKratW2ZLiZLqT6TQeELxhBvrjFCIk1vSByxODow="
+        }
+      ]
+    },
+    {
+      "Route": "css/news.ihgm43zdt1.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gb9csubydf-ihgm43zdt1.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.007299270073"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C8bzKratW2ZLiZLqT6TQeELxhBvrjFCIk1vSByxODow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ihgm43zdt1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/news.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/news.ihgm43zdt1.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\news.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ihgm43zdt1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/news.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CiNAGYIid/fwk9DBQQdxVndTQIoQNzAbYE7amci3xUQ="
+        }
+      ]
+    },
+    {
+      "Route": "css/news.ihgm43zdt1.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gb9csubydf-ihgm43zdt1.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C8bzKratW2ZLiZLqT6TQeELxhBvrjFCIk1vSByxODow=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 08:34:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ihgm43zdt1"
+        },
+        {
+          "Name": "label",
+          "Value": "css/news.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C8bzKratW2ZLiZLqT6TQeELxhBvrjFCIk1vSByxODow="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\pb1h331eja-iguucd2r5e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002341920375"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fF30VB6HpP/EAenpTJMbSbXaQy7gpArLidxsFVJoYXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\pb1h331eja-iguucd2r5e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fF30VB6HpP/EAenpTJMbSbXaQy7gpArLidxsFVJoYXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-fF30VB6HpP/EAenpTJMbSbXaQy7gpArLidxsFVJoYXM="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.iguucd2r5e.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\pb1h331eja-iguucd2r5e.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002341920375"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fF30VB6HpP/EAenpTJMbSbXaQy7gpArLidxsFVJoYXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iguucd2r5e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.iguucd2r5e.css",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1105"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iguucd2r5e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-srXPTLXcvugvT038N36uLJypFhRILmJ9qbIcAxPyhXE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.iguucd2r5e.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\pb1h331eja-iguucd2r5e.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "426"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"fF30VB6HpP/EAenpTJMbSbXaQy7gpArLidxsFVJoYXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 23 May 2025 09:03:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "iguucd2r5e"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-fF30VB6HpP/EAenpTJMbSbXaQy7gpArLidxsFVJoYXM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\s1h6v60eoc-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.61n19gt1b8.ico.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\s1h6v60eoc-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "61n19gt1b8"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\s1h6v60eoc-61n19gt1b8.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000405022276"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5430"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\s1h6v60eoc-61n19gt1b8.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2468"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 20 May 2025 02:03:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wfFuuYm+Lh6RbCeeiUqxw334b/hIOkp5j9eokGUM1Y0="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner.jf65o1qjom.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\banner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTTE8PlUD+HwVHL7EQhu6i5Clwk20Cwclw0jbDWnQuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:16:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jf65o1qjom"
+        },
+        {
+          "Name": "label",
+          "Value": "images/banner.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTTE8PlUD+HwVHL7EQhu6i5Clwk20Cwclw0jbDWnQuY="
+        }
+      ]
+    },
+    {
+      "Route": "images/banner.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\banner.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24312"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"MTTE8PlUD+HwVHL7EQhu6i5Clwk20Cwclw0jbDWnQuY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:16:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-MTTE8PlUD+HwVHL7EQhu6i5Clwk20Cwclw0jbDWnQuY="
+        }
+      ]
+    },
+    {
+      "Route": "images/img1.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg8SYI/5zy0USGPztTpM3f4TbDI+0OBlkLHkE4bSetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:27:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg8SYI/5zy0USGPztTpM3f4TbDI+0OBlkLHkE4bSetY="
+        }
+      ]
+    },
+    {
+      "Route": "images/img1.qfdp7yt0uo.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "58201"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Rg8SYI/5zy0USGPztTpM3f4TbDI+0OBlkLHkE4bSetY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:27:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qfdp7yt0uo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/img1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Rg8SYI/5zy0USGPztTpM3f4TbDI+0OBlkLHkE4bSetY="
+        }
+      ]
+    },
+    {
+      "Route": "images/img2.5057wtdhuo.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdlxZ7yd515vGsXf8+lRlHJ0wgYgTsqB02cyysMpT6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5057wtdhuo"
+        },
+        {
+          "Name": "label",
+          "Value": "images/img2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdlxZ7yd515vGsXf8+lRlHJ0wgYgTsqB02cyysMpT6Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/img2.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "100829"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdlxZ7yd515vGsXf8+lRlHJ0wgYgTsqB02cyysMpT6Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:39:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdlxZ7yd515vGsXf8+lRlHJ0wgYgTsqB02cyysMpT6Y="
+        }
+      ]
+    },
+    {
+      "Route": "images/img3.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5607686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1CuJloiQ2woW3LVij9DNUR/O0zTzSXV3A6bzID8bdbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1CuJloiQ2woW3LVij9DNUR/O0zTzSXV3A6bzID8bdbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/img3.kchkveig8k.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "5607686"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1CuJloiQ2woW3LVij9DNUR/O0zTzSXV3A6bzID8bdbQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:40:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "kchkveig8k"
+        },
+        {
+          "Name": "label",
+          "Value": "images/img3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-1CuJloiQ2woW3LVij9DNUR/O0zTzSXV3A6bzID8bdbQ="
+        }
+      ]
+    },
+    {
+      "Route": "images/img4.5k63bhtweq.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cx2sP65PPBqf64uyOc585k1bVfJPB3XnreDuF4facVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5k63bhtweq"
+        },
+        {
+          "Name": "label",
+          "Value": "images/img4.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cx2sP65PPBqf64uyOc585k1bVfJPB3XnreDuF4facVA="
+        }
+      ]
+    },
+    {
+      "Route": "images/img4.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img4.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "66569"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Cx2sP65PPBqf64uyOc585k1bVfJPB3XnreDuF4facVA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:53:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Cx2sP65PPBqf64uyOc585k1bVfJPB3XnreDuF4facVA="
+        }
+      ]
+    },
+    {
+      "Route": "images/img5.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pDF5k2RrNws28FiMZMkt7berj4FuSGDvKaVRndJLNKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:53:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-pDF5k2RrNws28FiMZMkt7berj4FuSGDvKaVRndJLNKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/img5.sexik5n6q3.jpg",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "24413"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pDF5k2RrNws28FiMZMkt7berj4FuSGDvKaVRndJLNKY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:53:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sexik5n6q3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/img5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pDF5k2RrNws28FiMZMkt7berj4FuSGDvKaVRndJLNKY="
+        }
+      ]
+    },
+    {
+      "Route": "images/img6.h5rnn3rx8y.png",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y8OkWMwTMyWCtsajMVQGu6g7wFpm8LehKtFPnMdJWFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "h5rnn3rx8y"
+        },
+        {
+          "Name": "label",
+          "Value": "images/img6.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y8OkWMwTMyWCtsajMVQGu6g7wFpm8LehKtFPnMdJWFw="
+        }
+      ]
+    },
+    {
+      "Route": "images/img6.png",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\img6.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "140841"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y8OkWMwTMyWCtsajMVQGu6g7wFpm8LehKtFPnMdJWFw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 07:53:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y8OkWMwTMyWCtsajMVQGu6g7wFpm8LehKtFPnMdJWFw="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_footer.bmmll37i1t.png",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\logo_footer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3aYuDBWar8L7ELDaain7ZYgw5k2VHXmC2x9Bg2GLJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 01:12:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bmmll37i1t"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo_footer.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3aYuDBWar8L7ELDaain7ZYgw5k2VHXmC2x9Bg2GLJg="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo_footer.png",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\logo_footer.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "168183"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"w3aYuDBWar8L7ELDaain7ZYgw5k2VHXmC2x9Bg2GLJg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 07 May 2025 01:12:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-w3aYuDBWar8L7ELDaain7ZYgw5k2VHXmC2x9Bg2GLJg="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.f9jx449yah.png",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wwOzEHqxRihroLoqBnmN5Yp+kmRRjJhlVh4/EC5/UuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 03:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f9jx449yah"
+        },
+        {
+          "Name": "label",
+          "Value": "images/logo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wwOzEHqxRihroLoqBnmN5Yp+kmRRjJhlVh4/EC5/UuM="
+        }
+      ]
+    },
+    {
+      "Route": "images/logo.png",
+      "AssetFile": "H:\\Work\\Medical\\wwwroot\\images\\logo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "37788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wwOzEHqxRihroLoqBnmN5Yp+kmRRjJhlVh4/EC5/UuM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 05 May 2025 03:04:31 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wwOzEHqxRihroLoqBnmN5Yp+kmRRjJhlVh4/EC5/UuM="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.bundle.scp.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gu8yaobo86-vi5w8g7hrd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002049180328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.bundle.scp.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Medical.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.bundle.scp.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gu8yaobo86-vi5w8g7hrd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.styles.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\77neimg9es-vi5w8g7hrd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002049180328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.styles.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Medical.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.styles.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\77neimg9es-vi5w8g7hrd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.vi5w8g7hrd.bundle.scp.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gu8yaobo86-vi5w8g7hrd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002049180328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi5w8g7hrd"
+        },
+        {
+          "Name": "label",
+          "Value": "Medical.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.vi5w8g7hrd.bundle.scp.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Medical.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi5w8g7hrd"
+        },
+        {
+          "Name": "label",
+          "Value": "Medical.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.vi5w8g7hrd.bundle.scp.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\gu8yaobo86-vi5w8g7hrd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi5w8g7hrd"
+        },
+        {
+          "Name": "label",
+          "Value": "Medical.bundle.scp.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.vi5w8g7hrd.styles.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\77neimg9es-vi5w8g7hrd.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002049180328"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi5w8g7hrd"
+        },
+        {
+          "Name": "label",
+          "Value": "Medical.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.vi5w8g7hrd.styles.css",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\bundle\\Medical.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "998"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi5w8g7hrd"
+        },
+        {
+          "Name": "label",
+          "Value": "Medical.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSRH1PpRfoeIVOnYF0UuFtWBj/H4s4h1NNPZoE2yCr0="
+        }
+      ]
+    },
+    {
+      "Route": "Medical.vi5w8g7hrd.styles.css.gz",
+      "AssetFile": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\compressed\\77neimg9es-vi5w8g7hrd.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "487"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 21 May 2025 04:35:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vi5w8g7hrd"
+        },
+        {
+          "Name": "label",
+          "Value": "Medical.styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-eiI1vob4o1Td+RgyaPB3yh0ilf5BSaEf8UklUMBGQug="
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+.about-header {
+    background: var(--light-gray);
+    color: #fff;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 56px;
+    height: 34vh;
+}
+
+.about-highlight {
+    font-size: 18px;
+    line-height: 1.5;
+    color: var(--warning-color);
+    font-weight: bold;
+    margin-bottom: 1rem;
+    width: 90%;
+}
+
+.about-mission h4 {
+    color: var(--warning-color);
+}

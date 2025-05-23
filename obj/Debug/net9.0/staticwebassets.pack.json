@@ -1,0 +1,85 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\Work\\Medical\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Medical.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Medical.vi5w8g7hrd.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\css\\about.css",
+      "PackagePath": "staticwebassets\\css\\about.css"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\css\\news.css",
+      "PackagePath": "staticwebassets\\css\\news.css"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner.jpg"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\img1.jpg",
+      "PackagePath": "staticwebassets\\images\\img1.jpg"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\img2.jpg",
+      "PackagePath": "staticwebassets\\images\\img2.jpg"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\img3.jpg",
+      "PackagePath": "staticwebassets\\images\\img3.jpg"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\img4.jpg",
+      "PackagePath": "staticwebassets\\images\\img4.jpg"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\img5.jpg",
+      "PackagePath": "staticwebassets\\images\\img5.jpg"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\img6.png",
+      "PackagePath": "staticwebassets\\images\\img6.png"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "H:\\Work\\Medical\\wwwroot\\images\\logo_footer.png",
+      "PackagePath": "staticwebassets\\images\\logo_footer.png"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Medical.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Medical.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Medical.props",
+      "PackagePath": "build\\Medical.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Medical.props",
+      "PackagePath": "buildMultiTargeting\\Medical.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Medical.props",
+      "PackagePath": "buildTransitive\\Medical.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

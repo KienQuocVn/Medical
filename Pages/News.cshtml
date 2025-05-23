@@ -1,0 +1,101 @@
+@page
+@model NewsModel
+@{
+    ViewData["Title"] = "News";
+}
+
+<div class="news-header d-flex align-items-center">
+    <div>
+        <h1 class="fw-bold text-warning-index mt-5">News</h1>
+        <h4>Keep up to date with all the latest news from LTR Medical </h4>
+    </div>
+</div>
+<section class="pb-5">
+    <div class="container">
+        <div class="row g-4">
+            <div class="col-md-3">
+                <div class="card h-100 shadow-sm " style="border: none;">
+                    <img src="/images/img4.jpg" class="img-fluid" alt="TGA Approval for TwitchView">
+                    <div class="card-body ">
+                        <div class="border-news">
+                            <a class="fw-bold text-warning-index pt-4 ps-4">PAnaesthesia Conference</a>
+                        </div>
+                        <span class="text-secondary" style="font-size: 11px;"> November 15th, 2021</span>
+                        <p class=" small p-4">On Saturday Danny Zanardo, VP Commercial and Anna Montgomery,
+                            Product Manager attended the PAnaesthesia Conference at the Princess Alexandra Hospital in
+                            Brisbane. Being the first face-to-face conference in a very [...]</p>
+                    </div>
+                    <div>
+                        <a href="#" class="text-warning-index">Read More ></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card h-100 shadow-sm" style="border: none;">
+                    <img src="/images/img5.jpg" class="img-fluid" alt="TGA Approval for TwitchView">
+                    <div class="card-body ">
+                        <div class="border-news">
+                            <a class="fw-bold text-warning-index pt-4 ps-4">LTR Medical receives TGA Approval for
+                                TwitchView™</a>
+                        </div>
+                        <span class="text-secondary" style="font-size: 11px;"> September 2nd, 2021</span>
+                        <p class=" small p-4">LTR Medical is excited to announce that it has recently gained
+                            TGA approval for Twitchview – an objective train-of-four (ToF) monitor for neuromuscular
+                            blockade and the first stand-alone EMG (electromyographic) [...]</p>
+                    </div>
+                    <div>
+                        <a href="#" class="text-warning-index">Read More ></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card h-100 shadow-sm" style="border: none;">
+                    <img src="/images/img3.jpg" class="img-fluid" alt="Exclusive agreement">
+                    <div class="card-body ">
+                        <div class="border-news">
+                            <a class="fw-bold text-warning-index pt-4 ps-4">LTR signs exclusive agreement to distribute
+                                TwitchView™ in Australia and New Zealand</a>
+                        </div>
+                        <span class="text-secondary" style="font-size: 11px;"> July 15th, 2021</span>
+                        <p class=" small p-4">LTR Medical has signed an agreement with Blink Device Company,
+                            an American based manufacturer to distribute TwitchView™ in the Australian and New Zealand
+                            markets. Blink Device Company, founded in Seattle [...]</p>
+                    </div>
+                    <div>
+                        <a href="#" class="text-warning-index">Read More ></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-3">
+                <div class="card h-100 shadow-sm" style="border: none;">
+                    <img src="/images/img6.png" class="img-fluid" alt="SAFIRA to Veterinary Practice">
+                    <div class="card-body ">
+                        <div class="border-news">
+                            <a class="fw-bold text-warning-index pt-4 ps-4">Introducing SAFIRA™ to Veterinary
+                                Practice</a>
+                        </div>
+                        <span class="text-secondary" style="font-size: 11px;"> July 14th, 2021</span>
+                        <p class=" small p-4">LTR Medical and Medovate, the manufacturer of SAFIRA™ have
+                            signed an agreement which will allow us to assess the potential for distribution of SAFIRA™
+                            for veterinary use across Australia [...]</p>
+                    </div>
+                    <div>
+                        <a href="#" class="text-warning-index">Read More ></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+@section Styles {
+    <style>
+        .news-header {
+            background: var(--light-gray);
+            color: #fff;
+            padding: 2rem;
+            margin-bottom: 2rem;
+            margin-top: 56px;
+            height: 34vh;
+        }
+    </style>
+}
